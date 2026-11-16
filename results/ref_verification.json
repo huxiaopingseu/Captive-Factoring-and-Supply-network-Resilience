@@ -1,0 +1,380 @@
+{
+  "Kouvelis & Xu 2021": {
+    "status": "found",
+    "top": {
+      "doi": "10.2139/ssrn.3241484",
+      "title": "A Supply Chain Theory of Factoring and Reverse Factoring",
+      "journal": "SSRN Electronic Journal",
+      "year": 2018,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "journal-article",
+      "authors": "Kouvelis P, Xu F"
+    }
+  },
+  "Tanrisever et al.": {
+    "status": "found",
+    "top": {
+      "doi": "10.35530/it.077.02.202527",
+      "title": "Credit risk-inclusive reverse factoring model for textile supply chain",
+      "journal": "Industria Textila",
+      "year": 2026,
+      "volume": null,
+      "issue": null,
+      "page": "268",
+      "type": "journal-article",
+      "authors": "DU P, WANG X, LU Y, ZHANG X, ZHAO S"
+    }
+  },
+  "van der Vliet et al. 2015": {
+    "status": "found",
+    "top": {
+      "doi": "10.1016/j.ejor.2014.10.052",
+      "title": "The price of reverse factoring: Financing rates vs. payment delays",
+      "journal": "European Journal of Operational Research",
+      "year": 2015,
+      "volume": "242",
+      "issue": "3",
+      "page": "842-853",
+      "type": "journal-article",
+      "authors": "van der Vliet K, Reindorp M, Fransoo J"
+    }
+  },
+  "Zhao & Huchzermeier 2018": {
+    "status": "found",
+    "top": {
+      "doi": "10.1016/j.omega.2018.10.019",
+      "title": "Managing supplier financial distress with advance payment discount and",
+      "journal": "Omega",
+      "year": 2019,
+      "volume": "88",
+      "issue": null,
+      "page": "77-90",
+      "type": "journal-article",
+      "authors": "Zhao L, Huchzermeier A"
+    }
+  },
+  "Yang & Birge 2018": {
+    "status": "found",
+    "top": {
+      "doi": "10.2139/ssrn.2746645",
+      "title": "Trade Credit, Risk Sharing, and Inventory Financing Portfolios",
+      "journal": "SSRN Electronic Journal",
+      "year": 2017,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "journal-article",
+      "authors": "Yang S, Birge J"
+    }
+  },
+  "Tang Yang Wu 2018": {
+    "status": "found",
+    "top": {
+      "doi": "10.2139/ssrn.2679618",
+      "title": "Sourcing from Suppliers with Financial Constraints and Performance Ris",
+      "journal": "SSRN Electronic Journal",
+      "year": 2015,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "journal-article",
+      "authors": "Tang C, Wu J, Yang S"
+    }
+  },
+  "Deng Gu Cai Li 2018": {
+    "status": "found",
+    "top": {
+      "doi": "10.1287/msom.2017.0677",
+      "title": "Financing Multiple Heterogeneous Suppliers in Assembly Systems: Buyer ",
+      "journal": "Manufacturing &amp; Service Operations Management",
+      "year": 2018,
+      "volume": "20",
+      "issue": "1",
+      "page": "53-69",
+      "type": "journal-article",
+      "authors": "Deng S, Gu C, Cai G, Li Y"
+    }
+  },
+  "Babich Burnetas Ritchken 2007": {
+    "status": "found",
+    "top": {
+      "doi": "10.1287/msom.1060.0122",
+      "title": "Competition and Diversification Effects in Supply Chains with Supplier",
+      "journal": "Manufacturing &amp; Service Operations Management",
+      "year": 2007,
+      "volume": "9",
+      "issue": "2",
+      "page": "123-146",
+      "type": "journal-article",
+      "authors": "Babich V, Burnetas A, Ritchken P"
+    }
+  },
+  "Kouvelis & Zhao 2012": {
+    "status": "found",
+    "top": {
+      "doi": "10.1287/opre.1120.1040",
+      "title": "Financing the Newsvendor: Supplier vs. Bank, and the Structure of Opti",
+      "journal": "Operations Research",
+      "year": 2012,
+      "volume": "60",
+      "issue": "3",
+      "page": "566-580",
+      "type": "journal-article",
+      "authors": "Kouvelis P, Zhao W"
+    }
+  },
+  "Klapper Laeven Rajan 2012": {
+    "status": "found",
+    "top": {
+      "doi": "10.3386/w17146",
+      "title": "Trade Credit Contracts",
+      "journal": "?",
+      "year": 2011,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "report",
+      "authors": "Klapper L, Laeven L, Rajan R"
+    }
+  },
+  "Devalkar & Krishnan 2019": {
+    "status": "found",
+    "top": {
+      "doi": "10.1111/poms.12954",
+      "title": "The Impact of Working Capital Financing Costs on the Efficiency of Tra",
+      "journal": "Production and Operations Management",
+      "year": 2019,
+      "volume": "28",
+      "issue": "4",
+      "page": "878-889",
+      "type": "journal-article",
+      "authors": "Devalkar S, Krishnan H"
+    }
+  },
+  "Chod Trichakis et al. 2020": {
+    "status": "found",
+    "top": {
+      "doi": "10.1287/mnsc.2019.3434",
+      "title": "On the Financing Benefits of Supply Chain Transparency and Blockchain ",
+      "journal": "Management Science",
+      "year": 2020,
+      "volume": "66",
+      "issue": "10",
+      "page": "4378-4396",
+      "type": "journal-article",
+      "authors": "Chod J, Trichakis N, Tsoukalas G, Aspegren H, Weber M"
+    }
+  },
+  "Cachon 2003": {
+    "status": "found",
+    "top": {
+      "doi": "10.1201/b12663-10",
+      "title": "- Supply Chain Coordination: Modeling through Contracts",
+      "journal": "Modeling of Responsive Supply Chain",
+      "year": 2016,
+      "volume": null,
+      "issue": null,
+      "page": "81-130",
+      "type": "book-chapter",
+      "authors": ""
+    }
+  },
+  "Christopher & Peck 2004": {
+    "status": "found",
+    "top": {
+      "doi": "10.69554/tpsb2289",
+      "title": "Data integrity in supply chain planning: Building resilient and action",
+      "journal": "Journal of Supply Chain Management, Logistics and Procurement",
+      "year": 2026,
+      "volume": "8",
+      "issue": "3",
+      "page": "230",
+      "type": "journal-article",
+      "authors": "Balci D"
+    }
+  },
+  "Pettit Fiksel Croxton 2010": {
+    "status": "found",
+    "top": {
+      "doi": "10.1002/j.2158-1592.2010.tb00125.x",
+      "title": "ENSURING SUPPLY CHAIN RESILIENCE: DEVELOPMENT OF A CONCEPTUAL FRAMEWOR",
+      "journal": "Journal of Business Logistics",
+      "year": 2010,
+      "volume": "31",
+      "issue": "1",
+      "page": "1-21",
+      "type": "journal-article",
+      "authors": "Pettit T, Fiksel J, Croxton K"
+    }
+  },
+  "Tukamuhabwa et al. 2015": {
+    "status": "found",
+    "top": {
+      "doi": "10.1080/00207543.2015.1037934",
+      "title": "Supply chain resilience: definition, review and theoretical foundation",
+      "journal": "International Journal of Production Research",
+      "year": 2015,
+      "volume": "53",
+      "issue": "18",
+      "page": "5592-5623",
+      "type": "journal-article",
+      "authors": "Tukamuhabwa B, Stevenson M, Busby J, Zorzini M"
+    }
+  },
+  "Hosseini Ivanov Dolgui 2019": {
+    "status": "found",
+    "top": {
+      "doi": "10.1016/j.tre.2019.03.001",
+      "title": "Review of quantitative methods for supply chain resilience analysis",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "year": 2019,
+      "volume": "125",
+      "issue": null,
+      "page": "285-307",
+      "type": "journal-article",
+      "authors": "Hosseini S, Ivanov D, Dolgui A"
+    }
+  },
+  "Ivanov & Dolgui 2020": {
+    "status": "found",
+    "top": {
+      "doi": "10.1080/00207543.2020.1750727",
+      "title": "Viability of intertwined supply networks: extending the supply chain r",
+      "journal": "International Journal of Production Research",
+      "year": 2020,
+      "volume": "58",
+      "issue": "10",
+      "page": "2904-2915",
+      "type": "journal-article",
+      "authors": "Ivanov D, Dolgui A"
+    }
+  },
+  "Barabasi & Albert 1999": {
+    "status": "found",
+    "top": {
+      "doi": "10.1126/science.286.5439.509",
+      "title": "Emergence of Scaling in Random Networks",
+      "journal": "Science",
+      "year": 1999,
+      "volume": "286",
+      "issue": "5439",
+      "page": "509-512",
+      "type": "journal-article",
+      "authors": "Barabási A, Albert R"
+    }
+  },
+  "Watts & Strogatz 1998": {
+    "status": "found",
+    "top": {
+      "doi": "10.1038/30918",
+      "title": "Collective dynamics of ‘small-world’ networks",
+      "journal": "Nature",
+      "year": 1998,
+      "volume": "393",
+      "issue": "6684",
+      "page": "440-442",
+      "type": "journal-article",
+      "authors": "Watts D, Strogatz S"
+    }
+  },
+  "Gao Barzel Barabasi 2016": {
+    "status": "found",
+    "top": {
+      "doi": "10.5194/nhess-2017-69-rc2",
+      "title": "Re: Universal resilience patterns in complex networks",
+      "journal": "?",
+      "year": 2017,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "peer-review",
+      "authors": ""
+    }
+  },
+  "Acemoglu Ozdaglar Tahbaz-Salehi 2015": {
+    "status": "found",
+    "top": {
+      "doi": "10.1016/j.jfs.2025.101471",
+      "title": "Systemic risk in centralised interbank networks",
+      "journal": "Journal of Financial Stability",
+      "year": 2025,
+      "volume": "81",
+      "issue": null,
+      "page": "101471",
+      "type": "journal-article",
+      "authors": "Eboli M"
+    }
+  },
+  "Elliott Golub Jackson 2014": {
+    "status": "found",
+    "top": {
+      "doi": "10.12681/eadd/48271",
+      "title": "Financial contagion in interbank networks",
+      "journal": "?",
+      "year": null,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "dissertation",
+      "authors": "Λουκάκη Κ"
+    }
+  },
+  "Gai & Kapadia 2010": {
+    "status": "found",
+    "top": {
+      "doi": "10.12681/eadd/48271",
+      "title": "Financial contagion in interbank networks",
+      "journal": "?",
+      "year": null,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "dissertation",
+      "authors": "Λουκάκη Κ"
+    }
+  },
+  "Battiston et al. 2012": {
+    "status": "found",
+    "top": {
+      "doi": "10.1038/srep00541",
+      "title": "DebtRank: Too Central to Fail? Financial Networks, the FED and Systemi",
+      "journal": "Scientific Reports",
+      "year": 2012,
+      "volume": "2",
+      "issue": "1",
+      "page": null,
+      "type": "journal-article",
+      "authors": "Battiston S, Puliga M, Kaushik R, Tasca P, Caldarelli G"
+    }
+  },
+  "Barrot 2016": {
+    "status": "found",
+    "top": {
+      "doi": "10.1111/jofi.12371",
+      "title": "Trade Credit and Industry Dynamics: Evidence from Trucking Firms",
+      "journal": "The Journal of Finance",
+      "year": 2016,
+      "volume": "71",
+      "issue": "5",
+      "page": "1975-2016",
+      "type": "journal-article",
+      "authors": "BARROT J"
+    }
+  },
+  "Breza & Liberman 2018": {
+    "status": "found",
+    "top": {
+      "doi": "10.1111/jofi.12439",
+      "title": "Financial Contracting and Organizational Form: Evidence from the Regul",
+      "journal": "The Journal of Finance",
+      "year": 2017,
+      "volume": "72",
+      "issue": "1",
+      "page": "291-324",
+      "type": "journal-article",
+      "authors": "BREZA E, LIBERMAN A"
+    }
+  }
+}

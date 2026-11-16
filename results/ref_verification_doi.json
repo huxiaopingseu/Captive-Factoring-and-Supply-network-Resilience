@@ -1,0 +1,171 @@
+{
+  "Barabasi & Albert 1999 (Science)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1126/science.286.5439.509",
+      "title": "Emergence of Scaling in Random Networks",
+      "journal": "Science",
+      "year": 1999,
+      "volume": "286",
+      "issue": "5439",
+      "page": "509-512",
+      "authors": "Barabási A, Albert R"
+    }
+  },
+  "Watts & Strogatz 1998 (Nature)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1038/30918",
+      "title": "Collective dynamics of ‘small-world’ networks",
+      "journal": "Nature",
+      "year": 1998,
+      "volume": "393",
+      "issue": "6684",
+      "page": "440-442",
+      "authors": "Watts D, Strogatz S"
+    }
+  },
+  "Gao Barzel Barabasi 2016 (Nature)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1038/nature16948",
+      "title": "Universal resilience patterns in complex networks",
+      "journal": "Nature",
+      "year": 2016,
+      "volume": "530",
+      "issue": "7590",
+      "page": "307-312",
+      "authors": "Gao J, Barzel B, Barabási A"
+    }
+  },
+  "Acemoglu Ozdaglar Tahbaz-Salehi 2015 (AER)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1257/aer.20130456",
+      "title": "Systemic Risk and Stability in Financial Networks",
+      "journal": "American Economic Review",
+      "year": 2015,
+      "volume": "105",
+      "issue": "2",
+      "page": "564-608",
+      "authors": "Acemoglu D, Ozdaglar A, Tahbaz-Salehi A"
+    }
+  },
+  "Elliott Golub Jackson 2014 (AER)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1257/aer.104.10.3115",
+      "title": "Financial Networks and Contagion",
+      "journal": "American Economic Review",
+      "year": 2014,
+      "volume": "104",
+      "issue": "10",
+      "page": "3115-3153",
+      "authors": "Elliott M, Golub B, Jackson M"
+    }
+  },
+  "Gai & Kapadia 2010 (Proc R Soc A)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1098/rspa.2009.0410",
+      "title": "Contagion in financial networks",
+      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "year": 2010,
+      "volume": "466",
+      "issue": "2120",
+      "page": "2401-2423",
+      "authors": "Gai P, Kapadia S"
+    }
+  },
+  "Yang & Birge 2018 (Management Science)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1287/mnsc.2017.2795",
+      "title": "The Competitive Dynamics of New DVD Releases",
+      "journal": "Management Science",
+      "year": 2018,
+      "volume": "64",
+      "issue": "8",
+      "page": "3536-3553",
+      "authors": "Mukherjee A, Kadiyali V"
+    }
+  },
+  "Tang Yang Wu 2018 (MSOM)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1287/msom.2017.0676",
+      "title": "Optimal Pricing and Inventory Planning with Charitable Donations",
+      "journal": "Manufacturing &amp; Service Operations Management",
+      "year": 2018,
+      "volume": "20",
+      "issue": "4",
+      "page": "687-703",
+      "authors": "Chu L, Li G, Rusmevichientong P"
+    }
+  },
+  "Klapper Laeven Rajan 2012 (RFS)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1093/rfs/hhs006",
+      "title": "Fiduciary Duties and Equity-debtholder Conflicts",
+      "journal": "Review of Financial Studies",
+      "year": 2012,
+      "volume": "25",
+      "issue": "6",
+      "page": "1931-1969",
+      "authors": "Becker B, Strömberg P"
+    }
+  },
+  "Barrot 2016 (JF)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1111/jofi.12385",
+      "title": "Cream‐Skimming in Financial Markets",
+      "journal": "The Journal of Finance",
+      "year": 2016,
+      "volume": "71",
+      "issue": "2",
+      "page": "709-736",
+      "authors": "BOLTON P, SANTOS T, SCHEINKMAN J"
+    }
+  },
+  "Breza & Liberman 2018 (JF)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1111/jofi.12589",
+      "title": "Personal Lending Relationships",
+      "journal": "The Journal of Finance",
+      "year": 2018,
+      "volume": "73",
+      "issue": "1",
+      "page": "5-49",
+      "authors": "KAROLYI S"
+    }
+  },
+  "Battiston et al. 2012 (Sci Rep)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1038/srep00541",
+      "title": "DebtRank: Too Central to Fail? Financial Networks, the FED and Systemic Risk",
+      "journal": "Scientific Reports",
+      "year": 2012,
+      "volume": "2",
+      "issue": "1",
+      "page": null,
+      "authors": "Battiston S, Puliga M, Kaushik R, Tasca P, Caldarelli G"
+    }
+  },
+  "Deng Gu Cai Li 2018 (MSOM)": {
+    "status": "found",
+    "meta": {
+      "doi": "10.1287/msom.2017.0677",
+      "title": "Financing Multiple Heterogeneous Suppliers in Assembly Systems: Buyer Finance vs. Bank Finance",
+      "journal": "Manufacturing &amp; Service Operations Management",
+      "year": 2018,
+      "volume": "20",
+      "issue": "1",
+      "page": "53-69",
+      "authors": "Deng S, Gu C, Cai G, Li Y"
+    }
+  }
+}
